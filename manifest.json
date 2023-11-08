@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats",
+    "version": "1.0.0",
+    "description": "Latest covid-19 data of UK",
+    "manifest_version": 3,
+    "author": "Ritik Vaidyasen",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Covid-19 Stats"
+    }
+}
